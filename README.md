@@ -1,1 +1,2 @@
-# 2D-Incremental-Game-Nayrex
+# 2D-Incremental
+First 2D incremental Game
